@@ -1,0 +1,14 @@
+{
+    "server": {
+        "host": "localhost",
+        "port": 3000,
+        "https": false
+    },
+    "docxToHTML": {
+        "endpoint": "docxToHTML"
+    },
+    "test": {
+        "docxFilename": "randomDoc",
+        "htmlFilename": "htmlOut"
+    }
+}
